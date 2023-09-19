@@ -1,0 +1,18 @@
+{
+  "projects": {
+    "default": "siska-put"
+  },
+  "targets": {
+    "siska-put": {
+      "hosting": {
+        "siska2": [
+          "siputss"
+        ],
+        "siska1": [
+          "siska-put"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:responsive/globals/app_assets.dart';
-import 'package:responsive/globals/app_colors.dart';
-import 'package:responsive/globals/app_contact.dart';
+import 'package:responsive/ui_widgets/app_assets.dart';
+import 'package:responsive/ui_widgets/app_colors.dart';
+import 'package:responsive/ui_widgets/app_contact.dart';
 import 'dart:html' as html;
 
-import '../globals/app_text_styles.dart';
+import '../ui_widgets/app_text_styles.dart';
 
 class Contact extends StatefulWidget {
   const Contact({

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import '../globals/app_assets.dart';
-import '../globals/app_colors.dart';
+import '../ui_widgets/app_assets.dart';
+import '../ui_widgets/app_colors.dart';
 
 class Project extends StatelessWidget {
   const Project({super.key});

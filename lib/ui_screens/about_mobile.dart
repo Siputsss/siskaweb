@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:responsive/ui/about_kiri.dart';
-import 'package:responsive/ui/about_kanan.dart';
+import 'package:responsive/ui_screens/about_kiri.dart';
+import 'package:responsive/ui_screens/about_kanan.dart';
 
 class AboutMo extends StatelessWidget {
   const AboutMo({super.key});

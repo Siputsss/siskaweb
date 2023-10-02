@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'globals/app_assets.dart';
+import '../ui_widgets/app_assets.dart';
 
 class Foto extends StatelessWidget {
   const Foto({super.key});

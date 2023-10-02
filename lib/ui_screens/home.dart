@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
-import 'package:responsive/foto.dart';
-import 'package:responsive/globals/app_colors.dart';
-import 'package:responsive/globals/app_text_styles.dart';
-import 'package:responsive/text.dart';
-import 'package:responsive/ui/about_desktop.dart';
-import 'package:responsive/ui/about_mobile.dart';
-import 'package:responsive/ui/clients.dart';
-import 'package:responsive/ui/contact.dart';
-import 'package:responsive/ui/portfolio.dart';
+import 'package:responsive/ui_screens/foto.dart';
+import 'package:responsive/ui_widgets/app_colors.dart';
+import 'package:responsive/ui_widgets/app_text_styles.dart';
+import 'package:responsive/ui_screens/text.dart';
+import 'package:responsive/ui_screens/about_desktop.dart';
+import 'package:responsive/ui_screens/about_mobile.dart';
+import 'package:responsive/ui_screens/clients.dart';
+import 'package:responsive/ui_screens/contact.dart';
+import 'package:responsive/ui_screens/portfolio.dart';
 
 class Home extends StatefulWidget {
   const Home({

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:responsive/globals/app_assets.dart';
-import 'package:responsive/ui/project_mobile.dart';
+import 'package:responsive/ui_widgets/app_assets.dart';
+import 'package:responsive/ui_screens/project_mobile.dart';
 
-import '../globals/app_text_styles.dart';
+import '../ui_widgets/app_text_styles.dart';
 
 class Portfolio extends StatefulWidget {
   const Portfolio({

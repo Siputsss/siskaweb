@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import '../globals/app_buttons.dart';
-import '../globals/app_text_styles.dart';
+import '../ui_widgets/app_buttons.dart';
+import '../ui_widgets/app_text_styles.dart';
 
 class AboutKiri extends StatelessWidget {
   const AboutKiri({super.key});

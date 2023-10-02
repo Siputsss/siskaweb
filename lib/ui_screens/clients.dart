@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:responsive/globals/app_text_styles.dart';
+import 'package:responsive/ui_widgets/app_text_styles.dart';
 
 class Clients extends StatelessWidget {
   const Clients({
